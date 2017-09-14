@@ -1,0 +1,3 @@
+C:/Users/rbara/CLionProjects/Tarea6_Zebra/cmake-build-debug/CMakeFiles/Tarea6_Zebra.dir
+C:/Users/rbara/CLionProjects/Tarea6_Zebra/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rbara/CLionProjects/Tarea6_Zebra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
